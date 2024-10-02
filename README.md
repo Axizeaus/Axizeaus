@@ -3,7 +3,7 @@
 ## Skills and Technologies
 
 * **Programming Languages:** Python, JavaScript, TypeScript
-* **Frameworks:** React, Next.js, Django, Django REST framework, Tailwind CSS
+* **Frameworks:** React, Next.js, Express, Django, Django REST framework, Tailwind CSS
 * **Databases:** PostgreSQL, MongoDB, SQLite
 * **Tools:** Git, GitHub, REST, GraphQL, Docker
 
