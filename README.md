@@ -7,9 +7,14 @@
 * **Databases:** PostgreSQL, MongoDB, SQLite
 * **Tools:** Git, GitHub, REST, GraphQL, Docker
 
+## Portfolio website
+
+* [Portfolio](https://axizeaus.github.io/portfolio/)
+
 ## Connect with Me
 
 * [LinkedIn](https://www.linkedin.com/in/yemanoo/)
+* [Gmail](mailto:axizeaus@gmail.com)
 
 <!---
 Axizeaus/Axizeaus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
