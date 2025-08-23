@@ -4,7 +4,7 @@
 
 * **Programming Languages:** Python, JavaScript, TypeScript
 * **Frameworks:** React, Next.js, Express, Django, Django REST framework, Tailwind CSS
-* **Databases:** PostgreSQL, MongoDB, SQLite
+* **Databases:** PostgreSQL, MongoDB, SQLite, Supabase, Firebase
 * **Tools:** Git, GitHub, REST, GraphQL, Docker
 
 ## Portfolio website
