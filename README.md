@@ -2,10 +2,11 @@
 
 ## Skills and Technologies
 
-* **Programming Languages:** Python, JavaScript, TypeScript
-* **Frameworks:** React, Next.js, Express, Django, Django REST framework, Tailwind CSS
-* **Databases:** PostgreSQL, MongoDB, SQLite, Supabase, Firebase
-* **Tools:** Git, GitHub, REST, GraphQL, Docker
+**Languages** — Python, TypeScript, JavaScript, SQL, Bash, Java
+**Frontend** — React, Next.js, Tailwind CSS, Angular
+**Backend** — Spring Boot, Spring Security, Django / DRF, FastAPI, Node.js (Express), REST APIs, JWT Authentication
+**Databases & ORM** — PostgreSQL, MongoDB, SQLite, Spring Data JPA / Hibernate, Django ORM
+**DevOps & Tools** — Docker, AWS (Lambda, EC2), Maven, Flyway, Git, Railway, Supabase
 
 ## Portfolio website
 
